@@ -1,4 +1,3 @@
-
 import React, { useState } from "react";
 import "bootstrap/dist/css/bootstrap.min.css";
 import { Link } from 'react-router-dom';
@@ -6,7 +5,7 @@ import { Link } from 'react-router-dom';
 // Import all technology images
 import androidImg from "../Imgs/Android.png";
 import bootstrapImg from "../Imgs/Bootstrap.png";
-import cppImg from "../Imgs/C++.png";
+import cppImg from "../Imgs/c++.png";  // 🔁 BADILISHWA: C++.png -> c++.png
 import css3Img from "../Imgs/Css3.png";
 import gitImg from "../Imgs/Git.png";
 import githubImg from "../Imgs/Github.png";
